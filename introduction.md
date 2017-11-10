@@ -1,13 +1,7 @@
 # Introduction
-> Be watchful, stand firm in the faith, act like men, be strong.
->
-> 1 Corinthians 16:13 ESV
-
-> 11 And he gave the apostles, the prophets, the evangelists, the shepherds and teachers,
-> 12 to equip the saints for the work of ministry, for building up the body of Christ,
-> 13 until we all attain to the unity of the faith and of the knowledge of the Son of God,
+> until we all attain... the knowledge of the Son of God,
 > to mature manhood, to the measure of the stature of the fullness of Christ,
-> Ephesians 4:11-13 ESV
+> Ephesians 4:13 ESV
 
 ## Who is this book for?
 * Christian teenagers and young men in their 20's and 30's in Germany and the Western World (English)
