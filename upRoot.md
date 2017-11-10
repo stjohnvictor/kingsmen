@@ -6,6 +6,9 @@
 
 ## Uproot List
 ### Activities
+* TV / Series / Youtube
+  * Just ditch all of it
+  * Movie watching included for now
 * Staying up after 11PM at night
 * Movies with junk in them
   * Horror / Drama
