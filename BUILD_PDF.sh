@@ -3,6 +3,7 @@
 pandoc --tab-stop=2 --highlight-style=tango \
   LICENSE.md \
   introduction.md \
+  upRoot.md
   fathersMakeMen.md \
   dayStandard.md \
   dayTravel.md \
