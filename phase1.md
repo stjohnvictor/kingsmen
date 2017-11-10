@@ -37,4 +37,6 @@
   * The Gaps Diet
   * Eat Dirt
   * Bear Grylls - Fuel for Life
+### Exercise
+* Pilates Class - Mat
   
