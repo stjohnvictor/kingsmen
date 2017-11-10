@@ -1,4 +1,4 @@
-# UpRoot
+# Phase 1 - Uprooting and Ground Zero
 * Your life can be alikened to a garden
   * If your life is like a jungle we need to uproot a lot before we can replant and maintain a healthy garden
 * What follows is a long list of things you just need to stop doing
@@ -28,4 +28,13 @@
 * Food with gluten in it
 * Refined wheat products
 * Any processed products
+  * Just stop going to Burger King, Mc Donalds etc.
 * There is more here, but we will get to that later...
+
+## Replace
+### Food
+* I recommned the recipes in these books
+  * The Gaps Diet
+  * Eat Dirt
+  * Bear Grylls - Fuel for Life
+  
