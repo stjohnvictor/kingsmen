@@ -1,4 +1,4 @@
-# Just Stop It
+# UpRoot
 * Your life can be alikened to a garden
   * If your life is like a jungle we need to uproot a lot before we can replant and maintain a healthy garden
 * What follows is a long list of things you just need to stop doing
