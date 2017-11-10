@@ -1,7 +1,7 @@
 #!/bin/bash
 #pandoc --from=markdown_github --tab-stop 2 \
 pandoc --tab-stop=2 --highlight-style=tango \
-  copyright.md \
+  LICENSE.md \
   introduction.md \
   fathersMakeMen.md \
   dayStandard.md \
