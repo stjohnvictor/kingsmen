@@ -24,8 +24,11 @@ By positioning our selves to hear. This starts with a heart decision to want to 
 
 As we repent we position ourselves to hear. The Trinity is constantly trying to teach us to and train us into maturity, if we position ourselves to listen (be teachable) and then act on what we hear we we can grow.
 
-The concept of manhood is facing an incredible onslaught from the enemy in this day and age. The very concept of what it is to be a man and also a woman is slowly but surely being removed from western society as we speak. We are in a season where we need to take a stand to reclaim biblical manhood from the gutters where it has been thrown.
+We are going to share with you our journey as we repent, listen and begin to act on what the Lord teaches us and shows us. We are going to try and share both our ups and downs, being truthful about the process as we push on.
 
-In this book I want to take you on a journey to help you rediscover your identity as a man and what God had intended for you to be.
+We hope you will join us on this journey and perhaps find some good friends to join you along the way.
 
+Be strong and courageous!
+
+Sinjin & Belshazzar
 
