@@ -25,5 +25,7 @@
 * Binge eating
 ### Food
 * Sugar
+* Food with gluten in it
 * Refined wheat products
+* Any processed products
 * There is more here, but we will get to that later...
