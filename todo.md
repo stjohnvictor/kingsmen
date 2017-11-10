@@ -9,3 +9,9 @@
 * Proverbs stand before kings...
 
 # Leadership vs Fathering
+
+# Choosing Friends
+
+# Networking
+
+# Gaining Respect in the World
