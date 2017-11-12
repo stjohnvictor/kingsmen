@@ -3,11 +3,7 @@
 pandoc --tab-stop=2 --highlight-style=tango \
   LICENSE.md \
   introduction.md \
-  upRoot.md
-  fathersMakeMen.md \
-  dayStandard.md \
-  dayTravel.md \
-  dayWar.md \
+  phase1.md \
   metadata.yaml \
-  --standalone -o kingsmen.pdf
-#  --standalone -o kingsmen.epub
+  --standalone -o kingsmenDE.pdf
+#  --standalone -o kingsmenDE.epub
