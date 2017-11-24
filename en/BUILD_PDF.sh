@@ -3,7 +3,9 @@
 pandoc --tab-stop=2 --highlight-style=tango \
   LICENSE.md \
   introduction.md \
-  phase1.md \
+  phase1Leave.md \
+  phase2DreamWithTrinity.md \
+  phase3TrainingWithPharoah.md \
   fathersMakeMen.md \
   dayStandard.md \
   dayTravel.md \
