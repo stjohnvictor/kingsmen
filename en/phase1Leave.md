@@ -1,4 +1,12 @@
-# Phase 1 - Uprooting and Ground Zero
+# Phase 1 - Leave your Fathers House & Go
+
+> 1 Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:
+> 2 And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
+> 3 And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
+> 4 So Abram departed, as the Lord had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.
+> Genesis 12:1-4 KJV
+
+## Uprooting and Ground Zero
 * Your life can be alikened to a garden
   * If your life is like a jungle we need to uproot a lot before we can replant and maintain a healthy garden
 * What follows is a long list of things you just need to stop doing
