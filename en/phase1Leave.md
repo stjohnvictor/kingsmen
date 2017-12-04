@@ -10,10 +10,21 @@
 >
 > Genesis 12:1-4 KJV
 
-## Uprooting and Ground Zero
-* Your life can be alikened to a garden
-  * If your life is like a jungle we need to uproot a lot before we can replant and maintain a healthy garden
-* What follows is a long list of things you just need to stop doing
+As we start this journey towards Biblical Manhood I begin by looking at someone else in the Bible who began a tremendous journey that lasted several years and which led him out of his home city on a journey to a land that was as wild as the "Wild West" which God promised he would ultimately give to his descendants as their inheritance - of course we are talking about Abraham here!
+
+What is interesting is that when God speaks to Abraham he tells him to leave his country, family and father's house and go to a land which he will show him. If we want to truly become Biblical men we need to often leave (lay aside) our cultural and familial ties and activities to go to a new land (embrace a new culture, way of life etc.) that God has for us.
+
+Often we can be the slaves of our own culture or family constantly running from one event to another or running one errand after another for our families, trying to do "the right thing". We are so busy caught up in this rat wheel that we don't have the mind space to hear what God is saying to us or the time to do what he wants us to do.
+
+God often leads us into a wilderness when He calls us so we can hear him and be free of all the old things that entangle us.
+
+These things can also be a negative friendship circle or activities and places that lead us into sin. We need to be free of it all so we can build a life anew with God.
+
+## Uprooting and Planting
+In some ways you can aliken it to remodelling a garden. If your life is like a jungle you need to uproot a lot before you can replant and maintain a healthy garden.
+
+#TODO
+I have decided to put together a list What follows is a long list of things you just need to stop doing
 * Step by step we will begin to add new disciplines to replace all the junk
 
 ## Uproot List
@@ -44,6 +55,12 @@
 * Any processed products
   * Just stop going to Burger King, Mc Donalds etc.
 * There is more here, but we will get to that later...
+### Relationships
+* Family
+* National / Cultural
+* Religions
+* Business
+* Friends
 
 ## Replace
 ### Food
