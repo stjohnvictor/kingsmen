@@ -26,6 +26,8 @@ In some ways you can aliken it to remodelling a garden. If your life is like a j
 #TODO
 I have decided to put together a list What follows is a long list of things you just need to stop doing
 * Step by step we will begin to add new disciplines to replace all the junk
+* Get away from things where you draw your self worth, value form etc.
+* Get away from things that take up your mind space or constantly demand your loyalty
 
 ## Uproot List
 ### Activities
