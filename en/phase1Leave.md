@@ -20,24 +20,25 @@ God often leads us into a wilderness when He calls us so we can hear him and be 
 
 These things can also be a negative friendship circle or activities and places that lead us into sin. We need to be free of it all so we can build a life anew with God.
 
-## Uprooting and Planting
-In some ways you can aliken it to remodelling a garden. If your life is like a jungle you need to uproot a lot before you can replant and maintain a healthy garden.
+## Uprooting and Clearing
+In order to get free we need to think about out lives as if it was an overgrown garden that needed remodelling. Before you can re-model an overgrown garden you often need to uproot and clear many trees, bushes, moss etc. that don't fit with the new plan or perhaps they need to be moved somewhere else, but essentially the core starting point is uprooting and clearing.
 
-#TODO
-I have decided to put together a list What follows is a long list of things you just need to stop doing
-* Step by step we will begin to add new disciplines to replace all the junk
-* Get away from things where you draw your self worth, value form etc.
-* Get away from things that take up your mind space or constantly demand your loyalty
+There are certain thinghs we should look for in our lives that we should mark as needing to be uprooted or cleared.
+They include:
+* Things or relationships that we draw our self worth or value from outside of Jesus.
+* Things or relationships that you are obsessed with, that take up your mind space, or constantly demand your loyalty outside of Jesus.
+
+If it is a huge struggle to break some of these bonds I recommend leaving where you live and ask God to show you a new City or Town to live in or perhaps a new Nation!
+
+I have created a starter list below of some basic things that you should deal with. The reality is that each person has their own set of things which are "junk" in their lives that they need to clear out. If you allow yourself a moment of stillness the Holy Spirit will show you, or your consicense, the things you need to throw out.
 
 ## Uproot List
 ### Activities
 * TV / Series / Youtube
-  * Just ditch all of it
-  * Movie watching included for now
-* Staying up after 11PM at night
 * Movies with junk in them
   * Horror / Drama
   * Porn, Sex Scenes etc.
+* Staying up after 11PM at night  
 * Sleeping more than 8 Hours a day
 * Alcohol
 * Excessive Partying / Clubbing etc.
@@ -50,6 +51,7 @@ I have decided to put together a list What follows is a long list of things you 
 * Binge eating
 * Pictures, videos etc. of old girlfriends
 * Remove things that link you to relationships, religious practices etc. that are destructive
+
 ### Food
 * Sugar
 * Food with gluten in it
@@ -57,19 +59,13 @@ I have decided to put together a list What follows is a long list of things you 
 * Any processed products
   * Just stop going to Burger King, Mc Donalds etc.
 * There is more here, but we will get to that later...
-### Relationships
+### Poisonous Relationships or committments in your...
 * Family
-* National / Cultural
-* Religions
+* Church
 * Business
-* Friends
+* Community or Nation
 
-## Replace
-### Food
-* I recommned the recipes in these books
-  * The Gaps Diet
-  * Eat Dirt
-  * Bear Grylls - Fuel for Life
-### Exercise
-* Pilates Class - Mat
-  
+## In Closing
+Take some time to write up a list of things that need to change. Certain thnigs you can deal with immediately like TV watching etc. Other things you may need to develop a plan or discipline to stop doing it. Regarding relationships you need to take the time to talk through the changes with your family, friends etc. Be gentle even if the response you get is not.
+
+In a future installment we will talk about starting to use this freed up time to build up some Godly patterns and disciplines in our lives.
